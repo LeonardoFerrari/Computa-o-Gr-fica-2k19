@@ -7,9 +7,9 @@
 
 1. Construção de retas
   1. Retas simples
-2. Criação de figuras geométricas
-3. Aplicação de tipos diferentes de projeções
-  3. Texturas
-  3. Iluminação
+1. Criação de figuras geométricas
+1. Aplicação de tipos diferentes de projeções
+  1. Texturas
+  1. Iluminação
   
 
