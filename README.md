@@ -12,7 +12,7 @@
   1. Texturas
   1. Iluminação
   
-<aside class="warning">
+<aside class="notice">
 
 Todo o conteúdo produzido aqui contém direitos autorais, o plagiário estará sujeito a sanções cíveis
 
