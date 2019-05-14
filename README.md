@@ -12,6 +12,9 @@
   1. Texturas
   1. Iluminação
   
-> [!WARNING]
-> Todo o conteúdo produzido aqui contém direitos autorais, o plagiário estará sujeito a sanções cíveis
+<aside class="warning">
 
+Todo o conteúdo produzido aqui contém direitos autorais, o plagiário estará sujeito a sanções cíveis
+
+
+</aside>
