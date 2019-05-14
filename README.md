@@ -12,4 +12,6 @@
   1. Texturas
   1. Iluminação
   
+  > [!NOTE]
+> Todo o conteúdo produzido aqui contém direitos autorais, o plagiário estará sujeito a sanções cíveis
 
